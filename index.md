@@ -2,24 +2,24 @@
 
 ---
 
-### Category Name 1 
+### Completed Projects 
 
-[Project 1 Title](/sample_page)
+[Analysis of WateRoam's Expansion Outside Of Singapore](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[MacDonald's Possible Future Development To Remain Competitive And Relevant](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[The Disparity In Opportunity For Addtional Help In Studies Between High And Low Income Family Students](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Ongoing Projects
 
-- [Project 1 Title](http://example.com/)
+- [The Disparity In Opportunity For Addtional Help In Studies Between High And Low Income Family Students](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
