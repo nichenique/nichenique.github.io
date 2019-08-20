@@ -11,9 +11,6 @@
 [MacDonald's Possible Future Development To Remain Competitive And Relevant](/pdf/ES2002.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[The Disparity In Opportunity For Addtional Help In Studies Between High And Low Income Family Students](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
