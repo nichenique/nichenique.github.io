@@ -1,10 +1,9 @@
-## This can be your internal website page / project page
+## Analysis of WateROAM's Expansion Outside Of Singapore 
 
 **Project description:** 
-WateROAM is a company that develops innovative water filtration solutions to eliminate water-borne diseases faced by rural and disaster-hit communities. This company has been doing decent but there are a lot of room for improvement. Improvements such as expansion plans to potential countries, suitable marketing channels and distribution channels to achieve it.  
+WateROAM is a company that develops innovative water filtration solutions to eliminate water-borne diseases faced by rural and disaster-hit communities. This company has been doing decent but there are a lot of room for improvement. Improvements such as expansion plans to potential countries, suitable marketing channels and distribution channels to achieve it. After analysing the potential markets, this is the result of our research.
 
-### 1. The problems observed Suggest hypotheses about the causes of observed phenomena
-
+### Analysis of 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ```javascript
