@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[MacDonald's Possible Future Development To Remain Competitive And Relevant](/pdf/sample_presentation.pdf)
+[MacDonald's Possible Future Development To Remain Competitive And Relevant](/pdf/ES2002.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
