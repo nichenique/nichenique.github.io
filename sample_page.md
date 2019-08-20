@@ -1,8 +1,9 @@
 ## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** 
+WateROAM is a company that develops innovative water filtration solutions to eliminate water-borne diseases faced by rural and disaster-hit communities. This company has been doing decent but there are a lot of room for improvement. Improvements such as expansion plans to potential countries, suitable marketing channels and distribution channels to achieve it.  
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. The problems observed Suggest hypotheses about the causes of observed phenomena
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
