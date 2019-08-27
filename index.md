@@ -5,7 +5,7 @@
 ### Completed Projects 
 
 [Analysis of WateRoam's Expansion Outside Of Singapore](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wateroam_2.jpg?raw=true"/>
 
 ---
 [MacDonald's Possible Future Development To Remain Competitive And Relevant](/pdf/ES2002.pdf)
