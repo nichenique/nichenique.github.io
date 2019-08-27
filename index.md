@@ -8,7 +8,7 @@
 <img src="images/wateroam_2.jpg?raw=true"/>
 
 ---
-[MacDonald's Possible Future Development To Remain Competitive And Relevant](/pdf/ES2002.pdf)
+[MacDonald's Possible Future Development To Remain Competitive And Relevant](/pdf/ES2002_copy.pdf)
 <img src="images/macdonald.jpeg?raw=true"/>
 
 
