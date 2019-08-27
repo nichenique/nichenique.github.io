@@ -9,7 +9,7 @@
 
 ---
 [MacDonald's Possible Future Development To Remain Competitive And Relevant](/pdf/ES2002.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/macdonald.jpeg?raw=true"/>
 
 
 ---
