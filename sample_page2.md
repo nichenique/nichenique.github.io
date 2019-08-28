@@ -1,7 +1,7 @@
 ##  MacDonald’s Possible Future Development To Remain Competitive And Relevant 
 
 **Project description:** 
-WateROAM is a company that develops innovative water filtration solutions to eliminate water-borne diseases faced by rural and disaster-hit communities. This company has been doing decent but there are a lot of room for improvement. Improvements such as expansion plans to potential countries, suitable marketing channels and distribution channels to achieve it. After analysing the potential markets, this is the result of our research.
+MacDonald's has been the market leader of fast food chain for the longest time, there's even a Big Mac index to compare purchasing power of two currencies. However, times have changed, technology is taking over the world by storm. In order to stay on top of this change, MacDonald's has to innovate so that it can remain competitive and revelant. This report researched on the possible ways to address the issue and has insightful inputs on just how MacDonald's can achieve it.
 
 ### [MacDonald’s Possible Future Development To Remain Competitive And Relevant](/pdf/ES2002_copy.pdf) 
 
