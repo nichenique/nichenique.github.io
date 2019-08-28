@@ -5,4 +5,3 @@ WateROAM is a company that develops innovative water filtration solutions to eli
 
 ### [Analysis of WateROAM's Expansion Outside of Singapore](/pdf/MKTWateroam.pdf) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
