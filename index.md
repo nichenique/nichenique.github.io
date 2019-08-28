@@ -16,7 +16,7 @@
 
 ### Ongoing Projects
 
-- [The Disparity In Opportunity For Addtional Help In Studies Between High And Low Income Family Students](/sample_page3)
+[The Disparity In Opportunity For Addtional Help In Studies Between High And Low Income Family Students](/sample_page3)
 
 
 ---
